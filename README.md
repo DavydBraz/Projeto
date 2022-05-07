@@ -3,5 +3,5 @@
 Exercicio escolar da cadeira Orientação e Objetos, Sistemas de informação UPE.
 
 Dupla:
-Davyd Braz 
+Davyd Braz E 
 Thais Larissa
